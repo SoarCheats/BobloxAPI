@@ -5,14 +5,14 @@ There is a api with some features, heres how to use all of them!
 
 Usage:
 
-#VersionCheck
+# VersionCheck
 
 updater.Check(versionpastebin, currentversionofcheat);
 this will go to a pastebin\github and check the version
 
 ---------------------------------------------------------
 
-#Bootstrapper
+# Bootstrapper
 
 This Is A Attachment to VersionCheck
 
@@ -24,12 +24,12 @@ zipdownload is the downloadlink eg. https://yourcheat.cheeto/cheat.zip
 
 Main Functions
 
-#Execution
+# Execution
 
 API.Execute(yourtextbox.Text);
 
 ------------------------------------------------------
-#Injection
+# Injection
 
 Bridge.AttachDLL(path)
 to get your current directory use
