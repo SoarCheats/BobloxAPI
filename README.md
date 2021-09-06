@@ -18,7 +18,11 @@ this will go to a pastebin\github and check the version
 
 This Is A Attachment to VersionCheck
 
+
+
 Bootstrapper.Start(zipdownload, zipname);
+
+
 zipname means like the rar/ zip name, ex. Cheat.rar | Cheat.zip
 zipdownload is the downloadlink eg. https://yourcheat.cheeto/cheat.zip
 
@@ -30,15 +34,22 @@ Main Functions
 
 API.Execute(yourtextbox.Text);
 
+
 ------------------------------------------------------
 # Injection
 
 Bridge.AttachDLL(path)
-to get your current directory use
+
+
+
+
+to get your current directoryuse
 string currentdir = Directory.GetCurrentDirectory();
 
 then use 
 Bridge.AttachDLL(dir + "\\yourcheat.dll")
+
+
 
 
 ------------------------------------------------------------
