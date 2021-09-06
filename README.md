@@ -41,5 +41,7 @@ Bridge.AttachDLL(dir + "\\yourcheat.dll")
 
 ------------------------------------------------------------
 
-YOUR DONE ITS ABOUT TIME IF YOU READ AL OF THIS YOU HAVE NO DAMN LIFE!
+# OTHER
+
+if theres any error (probably are because i wrote this in visual code cause im to lazy to try and compile a c# dll
 Anyways Made By Me The Cheeto Man And Dont Copy It You Peice of Cake ;)
